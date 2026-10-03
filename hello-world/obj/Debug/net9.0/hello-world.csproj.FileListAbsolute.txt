@@ -1,0 +1,15 @@
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\bin\Debug\net9.0\hello-world.exe
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\bin\Debug\net9.0\hello-world.deps.json
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\bin\Debug\net9.0\hello-world.runtimeconfig.json
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\bin\Debug\net9.0\hello-world.dll
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\bin\Debug\net9.0\hello-world.pdb
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\obj\Debug\net9.0\hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\obj\Debug\net9.0\hello-world.AssemblyInfoInputs.cache
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\obj\Debug\net9.0\hello-world.AssemblyInfo.cs
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\obj\Debug\net9.0\hello-world.csproj.CoreCompileInputs.cache
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\obj\Debug\net9.0\hello-world.sourcelink.json
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\obj\Debug\net9.0\hello-world.dll
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\obj\Debug\net9.0\refint\hello-world.dll
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\obj\Debug\net9.0\hello-world.pdb
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\obj\Debug\net9.0\hello-world.genruntimeconfig.cache
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\hello-world\obj\Debug\net9.0\ref\hello-world.dll
