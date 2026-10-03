@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\hello-world\\hello-world.csproj": {}
+    "c:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\CSharpPractice\\CSharpPractice.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\hello-world\\hello-world.csproj": {
+    "c:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\CSharpPractice\\CSharpPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\hello-world\\hello-world.csproj",
-        "projectName": "hello-world",
-        "projectPath": "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\hello-world\\hello-world.csproj",
+        "projectUniqueName": "c:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\CSharpPractice\\CSharpPractice.csproj",
+        "projectName": "CSharpPractice",
+        "projectPath": "c:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\CSharpPractice\\CSharpPractice.csproj",
         "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\hello-world\\obj\\",
+        "outputPath": "c:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\CSharpPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
