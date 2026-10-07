@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Numbers.Run();
+//Conditions.Run();
+// Loops.Run();
+// DataStructures.Run();
+// SortingSearching.Run();
+LINQ.Run();
+
