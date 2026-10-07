@@ -1,0 +1,15 @@
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\bin\Debug\net9.0\OOP.exe
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\bin\Debug\net9.0\OOP.deps.json
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\bin\Debug\net9.0\OOP.runtimeconfig.json
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\bin\Debug\net9.0\OOP.dll
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\bin\Debug\net9.0\OOP.pdb
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\obj\Debug\net9.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\obj\Debug\net9.0\OOP.AssemblyInfoInputs.cache
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\obj\Debug\net9.0\OOP.AssemblyInfo.cs
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\obj\Debug\net9.0\OOP.csproj.CoreCompileInputs.cache
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\obj\Debug\net9.0\OOP.sourcelink.json
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\obj\Debug\net9.0\OOP.dll
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\obj\Debug\net9.0\refint\OOP.dll
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\obj\Debug\net9.0\OOP.pdb
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\obj\Debug\net9.0\OOP.genruntimeconfig.cache
+C:\Dev\CocoaClassroomV2.0_internship_tasks\C#\OOP\obj\Debug\net9.0\ref\OOP.dll

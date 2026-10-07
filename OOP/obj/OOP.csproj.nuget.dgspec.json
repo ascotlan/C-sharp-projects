@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\CSharpPractice\\CSharpPractice.csproj": {}
+    "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\CSharpPractice\\CSharpPractice.csproj": {
+    "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\CSharpPractice\\CSharpPractice.csproj",
-        "projectName": "CSharpPractice",
-        "projectPath": "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\CSharpPractice\\CSharpPractice.csproj",
+        "projectUniqueName": "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\OOP\\OOP.csproj",
+        "projectName": "OOP",
+        "projectPath": "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\OOP\\OOP.csproj",
         "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\CSharpPractice\\obj\\",
+        "outputPath": "C:\\Dev\\CocoaClassroomV2.0_internship_tasks\\C#\\OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
